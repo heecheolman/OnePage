@@ -1,3 +1,19 @@
 .third {
-    background-color: transparent;
+    background-color: green;
+}
+
+.left-box {
+    width: 50vw;
+    height: 100vh;
+    background: url("./../assets/rabbit.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #e4e4e4;
+}
+
+.right-box {
+    width: 50vw;
+    height: 100vh;
+    background-color: #1338a3;
 }

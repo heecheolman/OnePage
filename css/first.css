@@ -1,3 +1,38 @@
 .first {
     background-color: #69624f;
 }
+.slide1 {
+    background-image: url("../assets/bg2.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.slide2 {
+    background-image: url("../assets/bg1.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.slide3 {
+    background-image: url("../assets/bg3.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.title {
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 3rem;
+    color: #ffffff;
+}
+
+.title-desc {
+    padding: 0 50px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 1.1rem;
+    color: #ffffff;
+}
