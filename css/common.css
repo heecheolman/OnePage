@@ -1,6 +1,6 @@
-html, body {
-    margin: 0;
-    padding: 0;
-    width: 100%;
-    height: 100%;
-}
+@import './base.css';
+@import './first.css';
+@import './second.css';
+@import './third.css';
+@import './fourth.css';
+@import './fifth.css';
